@@ -1,6 +1,6 @@
 {
   "name": "tree-sitter",
-  "repo": "tree-sitter/tree-sitter",
+  "repo": "tree-sitter/tree-sitter-c",
   "version": "0.15.0",
   "license": "MIT",
   "description": "C grammar for tree-sitter",
