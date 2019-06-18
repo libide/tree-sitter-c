@@ -1,0 +1,13 @@
+{
+  "name": "tree-sitter",
+  "repo": "tree-sitter/tree-sitter",
+  "version": "0.15.0",
+  "license": "MIT",
+  "description": "C grammar for tree-sitter",
+  "keywords": [
+    "parser", "c", "tree-sitter"
+  ],
+  "src": [
+    "src/parser.c",
+  ]
+}
