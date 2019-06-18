@@ -8,6 +8,6 @@
     "parser", "c", "tree-sitter"
   ],
   "src": [
-    "src/parser.c",
+    "src/parser.c"
   ]
 }
