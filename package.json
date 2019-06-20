@@ -1,5 +1,5 @@
 {
-  "name": "tree-sitter",
+  "name": "tree-sitter-c",
   "repo": "tree-sitter/tree-sitter-c",
   "version": "v0.15.0",
   "license": "MIT",
